@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\Design-Demo-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-4c6470865c8dd4f21103c2ba2b8501f0479d021b.jar" />
+    </item>
+    <item
+        jar="E:\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-b0d7b7aa7f6ef939c51f11135d9c81635d635465.jar" />
+    </item>
+    <item
+        jar="E:\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="E:\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-2e1372b2ab52bdc54743c7140e69fbe06073449c.jar" />
+    </item>
+    <item
+        jar="E:\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\design\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="E:\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-77fc0a145f0b1336ac5a8568c36fd7da7ef9ac90.jar" />
+    </item>
+    <item
+        jar="C:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\Design-Demo-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-3e79092424d8801e52cd038a4d8a2dd6be58b891.jar" />
+    </item>
+    <item
+        jar="E:\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="E:\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-95db94ada35ca303c2a60eeae189e8a724c0990a.jar" />
+    </item>
+    <item
+        jar="E:\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="E:\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-4f5c2590ba5d343e6fa455988f0616af2e5f47b9.jar" />
+    </item>
+
+</items>
